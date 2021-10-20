@@ -1,0 +1,113 @@
+html, body
+{
+  width: 100%;
+  height: 100%;
+}
+#mytable
+{
+  margin-left: 50px;
+  margin-top: 50px;
+  border-collapse:collapse;
+  height: 40%;
+  width: 40%;
+  border: solid 1px black;
+}
+
+.yellowCol
+{
+  background-color:#FEBF0A;
+  height:80%;
+  width:10%;
+  text-align:center;
+}
+.blueCol
+{
+  background-color:#0A63FE;
+  color: white;
+}
+.fourthCol
+{
+  text-align:center;
+}
+
+/*2*/
+
+.task2
+{
+  height:40%;
+  width:40%;
+  border: solid 1px black;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.block
+{
+  overflow: hidden;
+
+}
+
+#whitey1
+{
+  width:5%;
+  height:100%;
+  float:left;
+}
+#whitey2
+{
+  width:5%;
+  height:100%;
+  float:right;
+}
+
+#bluey1
+{
+  width:100%;
+  height:10%;
+  background-color:#0A63FE;
+  color: white;
+}
+
+#bluey2
+{
+  width:100%;
+  height:10%;
+  background-color:#0A63FE;
+  color: white;
+}
+
+#vavadu {
+  width: 100%;
+  height: 80%;
+  display: flex;
+}
+
+#yellowey1
+{
+  width:15%;
+  height:100%;
+  background-color:#FEBF0A;
+  text-align:center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#yellowey2
+{
+  width:15%;
+  height:100%;
+  background-color:#FEBF0A;
+  text-align:center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#whitebig
+{
+  width:100%;
+  height:100%;
+  text-align:center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
